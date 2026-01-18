@@ -1,4 +1,4 @@
-"""Main runner for DCP-Bench tasks."""
+"""Main runner for FluxCodeBench tasks."""
 
 from __future__ import annotations
 

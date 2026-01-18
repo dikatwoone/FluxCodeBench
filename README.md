@@ -1,10 +1,10 @@
-# DCP-Bench: Dynamic Coding Problems Benchmark
+# FluxCodeBench
 
 A benchmark for evaluating how efficiently LLMs and agent systems can **discover hidden requirements** through iterative feedback.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                           DCP-Bench Flow                                    │
+│                         FluxCodeBench Flow                                  │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
 │   ┌─────────┐      ┌─────────────┐      ┌───────────┐      ┌─────────────┐ │
@@ -56,25 +56,25 @@ pip install -e .
 ### List available tasks
 
 ```bash
-dcp-bench list --tasks-dir tasks
+flux-code-bench list --tasks-dir tasks
 ```
 
 ### Validate a task
 
 ```bash
-dcp-bench validate --task tasks/task_00_filter_numbers
+flux-code-bench validate --task tasks/task_00_filter_numbers
 ```
 
 ### Run a task (single evaluation)
 
 ```bash
-dcp-bench run --task tasks/task_00_filter_numbers --workspace ./workspace --single
+flux-code-bench run --task tasks/task_00_filter_numbers --workspace ./workspace --single
 ```
 
 ### Run a task (interactive mode)
 
 ```bash
-dcp-bench run --task tasks/task_00_filter_numbers --workspace ./workspace
+flux-code-bench run --task tasks/task_00_filter_numbers --workspace ./workspace
 ```
 
 In interactive mode, the runner watches for changes to `workspace/solution.py` and evaluates each update.
@@ -138,7 +138,7 @@ tasks/task_00_filter_numbers/
 3. Write `problem.md` (what the agent sees)
 4. Implement `evaluator.py` with `check_{rule_id}` methods
 5. Create `tests.py` with `TEST_CASES` list
-6. Validate with `dcp-bench validate --task tasks/your_task`
+6. Validate with `flux-code-bench validate --task tasks/your_task`
 
 ### Example task.yaml
 

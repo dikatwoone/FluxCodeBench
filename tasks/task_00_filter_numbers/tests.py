@@ -1,6 +1,6 @@
 """Test cases for task_00_filter_numbers."""
 
-from dcp_bench.models import TestCase
+from flux_code_bench.models import TestCase
 
 TEST_CASES = [
     # Phase 0 - basic filtering only

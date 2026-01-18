@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "dcp-bench"
+name = "flux-code-bench"
 version = "0.1.0"
-description = "Dynamic Coding Problems Benchmark"
+description = "FluxCodeBench: Dynamic Coding Problems Benchmark"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
@@ -21,11 +21,11 @@ dependencies = [
 ]
 
 [project.scripts]
-dcp-bench = "dcp_bench.cli:main"
+flux-code-bench = "flux_code_bench.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["dcp_bench*"]
+include = ["flux_code_bench*"]
 
 [tool.setuptools.package-data]
 "*" = ["*.yaml", "*.md"]

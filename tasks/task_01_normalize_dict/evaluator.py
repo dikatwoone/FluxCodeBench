@@ -5,8 +5,8 @@ from __future__ import annotations
 import copy
 from typing import Any, Callable
 
-from dcp_bench.evaluator import BaseEvaluator
-from dcp_bench.models import RuleResult, TestCase
+from flux_code_bench.evaluator import BaseEvaluator
+from flux_code_bench.models import RuleResult, TestCase
 
 
 class Evaluator(BaseEvaluator):

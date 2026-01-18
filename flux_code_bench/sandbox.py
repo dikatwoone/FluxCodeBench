@@ -1,4 +1,4 @@
-"""Sandbox for safe code execution in DCP-Bench."""
+"""Sandbox for safe code execution in FluxCodeBench."""
 
 from __future__ import annotations
 

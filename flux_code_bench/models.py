@@ -1,4 +1,4 @@
-"""Data models for DCP-Bench."""
+"""Data models for FluxCodeBench."""
 
 from __future__ import annotations
 

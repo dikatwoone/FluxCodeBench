@@ -1,4 +1,4 @@
-"""Command-line interface for DCP-Bench."""
+"""Command-line interface for FluxCodeBench."""
 
 from __future__ import annotations
 
@@ -220,7 +220,7 @@ def cmd_validate(args: argparse.Namespace) -> int:
 def main() -> int:
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        prog="dcp-bench",
+        prog="flux-code-bench",
         description="Dynamic Coding Problems Benchmark",
     )
     subparsers = parser.add_subparsers(dest="command", required=True)

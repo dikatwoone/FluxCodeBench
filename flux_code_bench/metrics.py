@@ -1,4 +1,4 @@
-"""Metrics collection and reporting for DCP-Bench."""
+"""Metrics collection and reporting for FluxCodeBench."""
 
 from __future__ import annotations
 
